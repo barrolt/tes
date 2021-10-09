@@ -1,11 +1,15 @@
 
 fitur pembayaran
 A = 1
+B = 2
+C = A + B
 
 fitur auth
 user = andi
+pw = user123
 
-fitur auth
+fitur fake auth 
 lasdjfkhadskfjh
 
-isfljasdjfk
+fitur cetak
+call auth & pembayaran
